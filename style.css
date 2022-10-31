@@ -20,12 +20,11 @@ table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
-  }
-  
-  td, th {
+}
+
+td,
+th {
     text-align: left;
     text-size-adjust: small;
     padding: 3px;
-  }
-  
-  
+}
