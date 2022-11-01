@@ -10,7 +10,7 @@
     padding-bottom: 16px;
 }
 
-#booleaner {
+.booleaner {
     color: blue;
 }
 
@@ -62,4 +62,35 @@
 
 .adv {
     margin-top: 100px;
+}
+
+#caption {
+    margin: 0px;
+    margin-bottom: 0px;
+
+    background-image: url(./img/monitor.jpg);
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+
+}
+
+
+#captiontwo {
+    margin: 0px;
+    margin-top: 0px;
+
+    background-image: url(./img/graph.jpg);
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+
 }
