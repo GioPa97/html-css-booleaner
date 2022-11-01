@@ -4,6 +4,16 @@
     background-size: 200px;
 }
 
+.sottotitoli {
+
+    padding-top: 1px;
+    padding-bottom: 16px;
+}
+
+#booleaner {
+    color: blue;
+}
+
 .main {
     width: 80px;
     margin-top: 10px;
@@ -24,9 +34,10 @@
 }
 
 
-#tablestyle td, #tablestyle th {
-   
-    
+#tablestyle td,
+#tablestyle th {
+
+
     padding: 16px;
 }
 
@@ -35,11 +46,6 @@
 
 }
 
-
-
-#tabletr {
-    padding-top: 12px;
-}
 #tablestyle th {
     padding-top: 6px;
     padding-bottom: 6px;
@@ -47,6 +53,5 @@
     background-color: #4a89e7;
     color: white;
 
-]}
-
-
+    ]
+}
