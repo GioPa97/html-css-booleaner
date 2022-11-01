@@ -16,15 +16,37 @@
 
 }
 
-table {
-    font-family: arial, sans-serif;
+#tablestyle {
+    font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
+    text-align: left;
 }
 
-td,
-th {
-    text-align: left;
-    text-size-adjust: small;
-    padding: 3px;
+
+#tablestyle td, #tablestyle th {
+   
+    
+    padding: 16px;
 }
+
+#tablestyle tr:nth-child(even) {
+    background-color: rgb(98, 192, 239);
+
+}
+
+
+
+#tabletr {
+    padding-top: 12px;
+}
+#tablestyle th {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: left;
+    background-color: #4a89e7;
+    color: white;
+
+]}
+
+
